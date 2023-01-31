@@ -1,0 +1,10 @@
+{
+    "compilerOptions": {
+        "lib": ["es2021"],
+        "module": "commonjs",
+        "outDir": "dist",
+        "sourceMap": true,
+        "strict": true,
+        "target": "es2021"
+    }
+}
